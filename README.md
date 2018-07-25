@@ -22,20 +22,15 @@ https://github.com/yms3786/featureselect.git.
 
 In order to install FEATURESELECT, you must provide some requirements:
 
-        Install WINSDK.1 in windws or MinGW in linux that include C++ compiler
+1-Install WINSDK.1 in windws or MinGW in linux that include C++ compiler
+2-Install MATLAB
 
-        Install MATLAB
-        
 
 After installing the requirements, follow these stages:
-
-        1-Copy all files placed in FEATURESELECT folder on the one of the available directories.
-
-        2-Go to \clinicaldataclassification\matlab\ in the intended directory.
-
-        3-Click on the one of the matlab files which is available in the entered directory. Notice that the matlab path and the current directory path must be the same.
-
-        4-If your application is not working for SVM, write "make" in the matlab's command window and press enter. Be sure that the command successfully completed. In order to get more information about LIBSM, look at https://www.csie.ntu.edu.tw/\~cjlin/libsvm/.
+1-Copy all files placed in FEATURESELECT folder on the one of the available directories.
+2-Go to \clinicaldataclassification\matlab\ in the intended directory.
+3-Click on the one of the matlab files which is available in the entered directory. Notice that the matlab path and the current directory path must be the same.
+4-If your application is not working for SVM, write "make" in the matlab's command window and press enter. Be sure that the command successfully completed. In order to get more information about LIBSM, look at https://www.csie.ntu.edu.tw/\~cjlin/libsvm/.
         
         
         
