@@ -6,10 +6,13 @@ Tutorial for clinical data classification. Zohre arabi bulaghi, Ahmad Habibi Zad
 
 MATLAB programing language is used for implementing of clinical data classification. There are some reasons for using it:
 
-Because MATLAB is common programing language in different sciences, classification has been implemented in t.
+
+1-Because MATLAB is common programing language in different sciences, classification has been implemented in t.
 classification can be applied on various areas such as biological data, image processing, handwrite detection,computer science and many other fields.
-MATLAB is supported by various operating systems such as win, linux, mac.
-MATLAB is an open source programing language, so everyone can add some new capabilities on clinical data classification.
+
+2-MATLAB is supported by various operating systems such as win, linux, mac.
+
+3-MATLAB is an open source programing language, so everyone can add some new capabilities on clinical data classification.
 After investigating new capabilities, we will publish new version of clinical data classification at:
 https://github.com/yms3786/featureselect.git.
           
