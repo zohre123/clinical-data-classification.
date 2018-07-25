@@ -1,4 +1,6 @@
-# hello--world
+# Tutorial for clinical data classification
+
+
 Tutorial for clinical data classification. Zohre arabi bulaghi, Ahmad Habibi Zad navin ,  Mehdi Hsseinzadeh , Ali Rezaeea. Department  of  computer engineering Science and Research Branch, Islamic Azad university, Tehran, Iran.  clinical data set classification an application for feature selection based on machine learning methods, it can be applied on problems needing to select subset of features from given feature disease set. In continue, we describe some aspects of clinical data classification .
 
 
