@@ -8,12 +8,12 @@ In order to address this issue,  we propose a new method based on a combination 
 
 # data set
 
-All datasets that were used is available in 
-
-
+All datasets that were used is available in:
+clinical-data-classification./data_set.rar
 
 
 
 # code
 
-The code used is also available in ...
+The code used is also available in:
+clinical-data-classification./code.rar
